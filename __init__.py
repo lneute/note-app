@@ -9,7 +9,7 @@ You can search notes by Title and content, the question mark show all notes, to 
 
 To Register a new note use the syntax: ? new title:content, then confirm
 
-for more information visit: github.com/lneute/albert-note-app
+for more information visit: github.com/lneute/note-app
 
 Synopsis: <trigger> <query>"""
 
