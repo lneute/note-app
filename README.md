@@ -81,13 +81,9 @@ I've made a few videos to better show how to use the plugin:
 
 https://youtu.be/cQKBBvCYio8
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cQKBBvCYio8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 **How the search works**
 
 https://youtu.be/jScY688XqUg
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jScY688XqUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Hope it helps 👍👍
 
